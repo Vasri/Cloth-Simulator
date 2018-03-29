@@ -1,0 +1,10 @@
+*.sln
+*/Debug/
+*/Release/
+.vs/
+Debug/
+Release/
+packages/
+*.vcxproj
+*.vcxproj.*
+packages.config
